@@ -145,6 +145,7 @@
 				TargetAttributes = {
 					D20C82F81C77C1F1002CA000 = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0800;
 					};
 					D20C830A1C77C49D002CA000 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -309,6 +310,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -326,6 +328,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.underplot.SwiftSpinner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
